@@ -1,0 +1,22 @@
+{
+  "name": "AnalizadorDescendente",
+  "version": "1.0.0",
+  "description": "Analizador descendente predictivo recursivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alu0100766950/AnalizadorDescendente.git"
+  },
+  "author": "Jose Carlos Rodriguez Cortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100766950/AnalizadorDescendente/issues"
+  },
+  "homepage": "https://github.com/alu0100766950/AnalizadorDescendente",
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
